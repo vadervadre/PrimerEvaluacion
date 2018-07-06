@@ -1,0 +1,7 @@
+C:\Users\alfredo.angeles\source\repos\PrimerEvaluacion\PrimerEvaluacion\obj\Debug\PrimerEvaluacion.csprojAssemblyReference.cache
+C:\Users\alfredo.angeles\source\repos\PrimerEvaluacion\PrimerEvaluacion\obj\Debug\PrimerEvaluacion.csproj.CoreCompileInputs.cache
+C:\Users\alfredo.angeles\source\repos\PrimerEvaluacion\PrimerEvaluacion\bin\Debug\PrimerEvaluacion.exe.config
+C:\Users\alfredo.angeles\source\repos\PrimerEvaluacion\PrimerEvaluacion\bin\Debug\PrimerEvaluacion.exe
+C:\Users\alfredo.angeles\source\repos\PrimerEvaluacion\PrimerEvaluacion\bin\Debug\PrimerEvaluacion.pdb
+C:\Users\alfredo.angeles\source\repos\PrimerEvaluacion\PrimerEvaluacion\obj\Debug\PrimerEvaluacion.exe
+C:\Users\alfredo.angeles\source\repos\PrimerEvaluacion\PrimerEvaluacion\obj\Debug\PrimerEvaluacion.pdb
